@@ -1,0 +1,2 @@
+# themeforest
+magento_theme
